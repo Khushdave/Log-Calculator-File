@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98cfd1d6394655aeacac5a016961d542f7"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98fab68d046ac5ed73db5ed4d99dfc65ec"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e982e26f547e341f30a2056d3911d7191de"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e984ddbfe5439a236cf464ad4e870b2f0b1"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98ab1260c4860a4aa84cbeb1d41490a057"
+    }
+  ],
+  "containerPath" : "/Users/khushdave/Desktop/LOG CALCULTER/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/khushdave/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/khushdave/Library/Developer/Xcode/DerivedData/Pods-byhjyetgzmrbxmdgpioltjyhvosj/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/khushdave/Library/Developer/Xcode/DerivedData/Pods-byhjyetgzmrbxmdgpioltjyhvosj/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

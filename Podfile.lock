@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.6.4)
+  - DLRadioButton (1.4.12)
+  - IQKeyboardManagerSwift (6.5.11)
+  - SkyFloatingLabelTextField (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - DLRadioButton
+  - IQKeyboardManagerSwift
+  - SkyFloatingLabelTextField
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DLRadioButton
+    - IQKeyboardManagerSwift
+    - SkyFloatingLabelTextField
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  DLRadioButton: d7c4e225ed0e8013cef7be61455230c7557ad7c1
+  IQKeyboardManagerSwift: c7955c0bdbf7b2eb29bb7daaa44e3d90f55a9a85
+  SkyFloatingLabelTextField: 79ddc40e4ad59707fedbb48d605417aee48bb78a
+
+PODFILE CHECKSUM: 7d38f5a2dfe8f44504fd9eab623b3249180a75e1
+
+COCOAPODS: 1.12.0
